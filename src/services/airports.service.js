@@ -1,7 +1,7 @@
 const avoidEmptyCity = function(a) {
     return Object.assign({}, a, { city: a.city || '-'});
 }
-//Test Pipeline
+//Test Pipeline feature fixes#1
 class AirportsService {
     constructor(airports){
         this._airports = airports;
