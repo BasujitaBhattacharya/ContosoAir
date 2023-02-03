@@ -19,4 +19,6 @@ class BookFormService {
     }
 }
 
+//Test changes for allowing reservations.
+
 module.exports = BookFormService;
