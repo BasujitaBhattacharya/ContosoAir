@@ -20,5 +20,5 @@ class BookFormService {
 }
 
 //Test changes for allowing reservations.
-
+// Test pipeline trigger
 module.exports = BookFormService;
