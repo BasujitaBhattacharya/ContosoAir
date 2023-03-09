@@ -40,7 +40,7 @@ p_site_prefix | common prefix for all resources created | `contoso-air`
 p_site_web_name | website specific resource name | `web`
 p_comosdb_name | database specific resource name | `db`
 
-> e.g. previous parameter examples will create resources `contoso-air-db-dev` and `contoso-air-db-dev`.
+> e.g. previous parameter examples will create resources `contoso-air-db-dev` and `contoso-air-db-dev` .
 
 Then you run the ARM template with the following commands ([Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) required): 
 
