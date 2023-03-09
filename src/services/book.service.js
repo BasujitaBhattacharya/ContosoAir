@@ -1,3 +1,4 @@
+//Test changes fixes AB#31
 const uuidv4 = require('uuid/v4');
 
 const getRandomSeat = function(cols = 'ABCDEF', rows = 32) {
